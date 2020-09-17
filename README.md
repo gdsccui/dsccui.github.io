@@ -11,11 +11,6 @@ Is an active chapter working in this institute with an awesome community of stud
 Anyone who want to be the member of this <a href="https://dsc.community.dev/comsats-university-islamabad/">chapter</a> is welcome open heartedly. 💘
 
 
-## Site is Live
-
-<a href="https://dsccui.github.io">DSC CUI</a>
-
-
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
 [![GitHub Forks](https://img.shields.io/github/forks/saadhaxxan/Car_Game_Python_Pygame.svg?style=social&label=Fork&maxAge=2592000)](https://www.github.com/dscuol/dsc-certificate-generator/fork)
@@ -31,7 +26,7 @@ Extended the code from one of my DSC Fellows:
 )](https://www.linkedin.com/in/m-hamzashakeel)
 
 #### Hasseb Ali Sajid
-[![LinkedIn Link](https://img.shields.io/badge/Connect-saadhaxxan-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+[![LinkedIn Link](https://img.shields.io/badge/Connect-C_B-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://linkedin.com/in/haseeb-ali-720531149)
 
 You can also follow our GitHub Profile to stay updated about my latest projects:
@@ -49,6 +44,9 @@ If you find any bug in the code or have any improvements in mind then feel free 
 [![GitHub Issues](https://img.shields.io/github/issues/saadhaxxan/Car_Game_Python_Pygame.svg?style=flat&label=Issues&maxAge=2592000)](https://github.com/dsccui/dsccui.github.io/issues)
 
 If you face any issue, you can create a new issue in the Issues Tab and We will be glad to help you out.
+
+## Site is Live
+<a href="https://dsccui.github.io">DSC CUI</a>
 
 Copyright (c) 2020 DSC CUI
 
