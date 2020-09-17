@@ -1,5 +1,7 @@
 # DSC COMSATS University Islamabad
 
+![LinkedIn banner](https://user-images.githubusercontent.com/43790152/93531998-9080ff00-f959-11ea-953d-6e93f517d5b6.png)
+
 ## About Campus
 
 Is a top notch institute of Computer sciences ranked # 1 in IT across Pakistan and ranked # 2 in Research. Its the main campus based in the capital city with very refined faculty and quality of education, offering various programs like CS, SE, EE, BBA etc. There are 7 campuses across the country offering more than 98 degree programs for local and global students. You can visit the official <a href="http://islamabad.comsats.edu.pk/">site</a> for more information.
